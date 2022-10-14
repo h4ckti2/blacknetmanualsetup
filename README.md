@@ -1,0 +1,2 @@
+# blacknetmanualsetup
+bot
